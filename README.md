@@ -1,4 +1,4 @@
-# codemix-vanilla-react
+# codemix-vanilla-vue
 
 Template for project creation of Vue inside CodeMix
 
